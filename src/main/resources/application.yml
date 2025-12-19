@@ -4,7 +4,7 @@ spring:
   application:
   name: CustomerService
   datasource:
-    url: jdbc:postgresql://dpg-d51r18emcj7s73eigpqg-a.origon-postgres.render.com:5432/customerservice_8lzw
+    url: jdbc:postgresql://dpg-d51r18emcj7s73eigpqg-a.oregon-postgres.render.com:5432/customerservice_8lzw
     username: customerservice_8lzw_user
     password: 32cfmstZLQNMyLmNf9dPCDiMF3nOfJHR
     driver-class-name: org.postgresql.Driver
